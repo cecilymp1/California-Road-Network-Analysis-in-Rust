@@ -1,9 +1,9 @@
 # DS210- California Road Network Project
 
-Author: Cecily Wang/Munoz-Pastrana 
-Collaborators: Help from CDS OH and tutoring
-Class: DS210, Professor Kontothanassis
-Date: December 12, 2023
+- Author: Cecily Wang/Munoz-Pastrana 
+- Collaborators: Help from CDS OH and tutoring
+- Class: DS210, Professor Kontothanassis
+- Date: December 12, 2023
 
 
 This project aims to analyze routes within a road network represented by a graph data structure where intersections and endpoints are nodes, and the roads connecting these are undirected edges. In this project, I am using the California Road Network dataset from the Stanford Large Network Dataset Collection (SNAP) to find the shortest paths from randomly selected locations and compute measures for the network such as degree centrality, average distance, degree distribution, and graph densities. 
