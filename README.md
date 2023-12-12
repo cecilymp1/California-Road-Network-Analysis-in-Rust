@@ -8,6 +8,7 @@
 
 This project aims to analyze routes within a road network represented by a graph data structure where intersections and endpoints are nodes, and the roads connecting these are undirected edges. In this project, I am using the California Road Network dataset from the Stanford Large Network Dataset Collection (SNAP) to find the shortest paths from randomly selected locations and compute measures for the network such as degree centrality, average distance, degree distribution, and graph densities. 
 
+# IMPORTANT:
 ### Make sure to do this before running!!!
 - Download the 'california_roads.txt.zip' and place the unzipped file 'california_roads.txt' exactly spelled like that in each measure folder (Centrality, Average_Distance, etc) to make sure that the program runs.
 - 
