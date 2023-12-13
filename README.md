@@ -10,11 +10,12 @@ This project aims to analyze routes within a road network represented by a graph
 
 # IMPORTANT:
 ### Make sure to do this before running!!!
-- Download the 'california_roads.txt.zip' and place the unzipped file 'california_roads.txt' exactly spelled like that in each measure folder (Centrality, Average_Distance, etc) to make sure that the program runs.
+- Download the 'california_roads.txt.zip' and place the unzipped file '"california_roads.txt'" exactly spelled like that in each measure folder (Centrality_measure, Average_DistanceMeasure, Degree_Distribution, DensityMeasure, Shortest_Distance_Measure) to make sure that the program runs.
 - 
 ### Features: 
 - average distance between pre-computed cities
 - graph creation
+- io to read file
 - shortest path-Dijkstra
 - centrality and centrality distributions
 - graph densities
@@ -31,5 +32,5 @@ itertools = "0.10.1"
 Clone/download the project.
 Navigate to the project directory and run cargo build to compile the project.
 You can then run the project using cargo run.
-Be sure to have the “california_roads.txt” file in the same directory for all features/files that calculate different measures of the network. 
+## *Again, be sure to have the “california_roads.txt” file in the same directory for all features/files that calculate different measures of the network.* 
 
