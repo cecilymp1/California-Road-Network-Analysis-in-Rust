@@ -11,7 +11,7 @@ This project aims to analyze routes within a road network represented by a graph
 # IMPORTANT:
 ### Make sure to do this before running!!!
 - Download the 'california_roads.txt.zip' and place the unzipped file  <b> '"california_roads.txt'"</b>  exactly spelled like that in each measure folder (Centrality_measure, Average_DistanceMeasure, Degree_Distribution, DensityMeasure, Shortest_Distance_Measure) to make sure that the program runs.
-- I had to create a zip file for the dataset because the file was too large to directly upload to github.
+- *I had to create a zip file for the dataset because the file was too large to directly upload to github.*
  
 ### Features: 
 - average distance between pre-computed cities
